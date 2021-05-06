@@ -6,3 +6,10 @@
   <p>May 2, 2020</p>
 <p>A timer based application which allows the user to enter a time duration and a high intensity interval time for a cardio workout.</p>
 
+<h4>Banking App</h4>
+  <p>May 6, 2021</p>
+<p>A banking application</p>
+
+<h4>Game Store App</h4>
+  <p>May 6, 2021</p>
+<p>A Game Store application library</p>
